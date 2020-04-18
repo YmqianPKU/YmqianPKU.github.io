@@ -1,23 +1,2 @@
 ### Minimaxing by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-The very first responsive site template I ever made on 5grid (then skelJS, then Skel,
-and finally Responsive Tools). It's clean, minimal, and so generic you can use it for
-pretty much anything.
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+$\color{Blue}{\mathbf {Definition 2.1.1}}$ 假设$(\Omega,\mathcal F,P)$ 是一个概率空间，$B \in \mathcal F$ 且 $\mathit P(B)>0. \forall A \in \mathcal F$，称$\frac{P(AB)}{ P(B)}$ 为在B发生的条件下，A的条件概率。记为$ P(A|B)$ 或 $ P_B(A)$.
