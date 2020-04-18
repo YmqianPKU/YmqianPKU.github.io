@@ -1,23 +1,23 @@
 ### Minimaxing by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 
-The very first responsive site template I ever made on 5grid (then skelJS, then Skel,
-and finally Responsive Tools). It's clean, minimal, and so generic you can use it for
-pretty much anything.
+formula2: $$n!=x$$
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+formula3: (m==y)
 
-AJ
-aj@lkn.io | @ajlkn
+formula4: [m!=y]
 
+formula5: \(k==z\)
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+formula6: \[k!=z\]
