@@ -22,7 +22,7 @@
   }
 </style>
 
-![页面横幅](/banner.jpg)
+<img src="/banner.jpg" style="width: 100%; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 # Be yourself and don't go with the flow.
 
