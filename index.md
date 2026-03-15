@@ -1,7 +1,3 @@
----
-layout: default
-title: 首页
----
 
 # Be yourself and don't go with the flow.
 
