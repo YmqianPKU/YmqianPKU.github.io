@@ -22,6 +22,8 @@
   }
 </style>
 
+![页面横幅](/banner.jpg)
+
 # Be yourself and don't go with the flow.
 
 你好，欢迎来到我的数字空间。我是一名拥有 15 年电气工程背景的**终身学习者**。
