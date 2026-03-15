@@ -1,3 +1,26 @@
+<style>
+  body {
+    background-color: #f7f9fc; /* 清爽的浅蓝灰色背景 */
+    color: #2d3748;           /* 深石板灰文字，比纯黑更高级 */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    max-width: 850px;         /* 限制宽度，防止文字在大屏幕上拉得太长 */
+    margin: 0 auto;           /* 页面居中 */
+    padding: 40px 20px;       /* 增加边距，留白产生美感 */
+  }
+  
+  /* 美化链接颜色 */
+  a {
+    color: #3182ce; 
+    text-decoration: none;
+    border-bottom: 1px solid #ebf8ff;
+    transition: all 0.3s;
+  }
+  
+  a:hover {
+    color: #2b6cb0;
+    border-bottom: 1px solid #3182ce;
+  }
+</style>
 
 # 🎯 2026 年度目标：知行合一
 
