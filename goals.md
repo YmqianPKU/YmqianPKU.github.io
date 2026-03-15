@@ -19,10 +19,10 @@
 
 ### 📊 进度看板
 <div style="background: white; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); margin-bottom: 20px;">
-  <h3 style="margin-top: 0;">🎯 2026 指标</h3>
-  <p>通过 UIBE 定量经济学博士申请</p>
+  <h3 style="margin-top: 0;">🎯 2026 进度指标</h3>
+  <p>通过 UIBE 定量经济学博士备考</p>
   <div style="background: #edf2f7; border-radius: 10px; height: 8px; width: 100%;">
-    <div style="background: #4299e1; height: 8px; width: 15%; border-radius: 10px;"></div>
+    <div style="background: #4299e1; height: 8px; width: 1%; border-radius: 10px;"></div>
   </div>
   <small>当前进度：1%</small>
 </div>
