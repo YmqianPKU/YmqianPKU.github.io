@@ -22,30 +22,31 @@
   }
 </style>
 
-# 🎯 2026 年度目标：知行合一
+# 🎯 2026 Annual Goals: Unity of Knowledge and Action
 
-> "终身学习，不只是为了生存，而是为了活得更有解释权。"
+> "Lifelong learning is not just for survival, but to live with greater agency and interpretive power."
 
-### 🎓 学术与语言 (Academic & Language)
-- [ ] **博士申请**：完成 UIBE 定量经济学考博复习，锁定 2027 入学目标。
-- [ ] **雅思考试**：达成总分 6.5 分，为入学申请与后期学习打下语言基石。
+### 🎓 Academic & Language
+- [ ] **PhD Application**: Complete the UIBE Quantitative Economics PhD review, targeting 2027 enrollment.
+- [ ] **IELTS Exam**: Reach an overall score of 6.5 to establish a linguistic foundation for future studies.
 
-### 💼 专业与职场 (Professional)
-- [ ] **注册证挂帅**：通过 10 月份的注册电气工程师专业考试。
-- [ ] **金融风控**：顺利通过 2026 年 FRM（金融风险管理师）考试。
+### 💼 Professional
+- [ ] **Professional License**: Pass the Registered Electrical Engineer professional exam in October.
+- [ ] **Financial Risk**: Successfully pass the 2026 FRM (Financial Risk Manager) exam.
 
-### 🤖 技术与创作 (Tech & Creation)
-- [ ] **AI 自动化**：利用 n8n/Dify 搭建 3 套以上成熟的工作流。
-- [ ] **内容输出**：坚持更新《中国宏观经济分析》，记录至少 50 篇深度思考。
+### 🤖 Tech & Creation
+- [ ] **AI Automation**: Build and deploy 3+ mature workflows using n8n/Dify.
+- [ ] **Content Creation**: Consistently update "China Macroeconomic Analysis," recording at least 50 in-depth reflections.
 
 ---
 
-### 📊 进度看板
+### 📊 Progress Dashboard
+
 <div style="background: white; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); margin-bottom: 20px;">
-  <h3 style="margin-top: 0;">🎯 2026 进度指标</h3>
-  <p>通过 UIBE 定量经济学博士备考</p>
+  <h3 style="margin-top: 0;">🎯 2026 Progress Indicators</h3>
+  <p>Passing UIBE Quantitative Economics PhD Prep</p>
   <div style="background: #edf2f7; border-radius: 10px; height: 8px; width: 100%;">
     <div style="background: #4299e1; height: 8px; width: 1%; border-radius: 10px;"></div>
   </div>
-  <small>当前进度：1%</small>
+  <small>Current Progress: 1%</small>
 </div>
