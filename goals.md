@@ -21,3 +21,11 @@
 * **整体进度：** <progress value="5" max="100"></progress> 5%
 * **当前专注：** 基础经济学课程系统化梳理
 * 
+<div style="background: white; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  <h3 style="margin-top: 0;">🎯 2026 北极星指标</h3>
+  <p>通过 UIBE 定量经济学博士申请</p>
+  <div style="background: #edf2f7; border-radius: 10px; height: 8px; width: 100%;">
+    <div style="background: #4299e1; height: 8px; width: 15%; border-radius: 10px;"></div>
+  </div>
+  <small>当前进度：15%</small>
+</div>
