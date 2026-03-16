@@ -51,10 +51,12 @@
   <small>Current Progress: 1%</small>
 </div>
 
-<div class="architecture-card">
-  <div class="card-label">2026 Strategic Roadmap</div>
-  
-  <pre class="mermaid">
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+</script>
+
+<pre class="mermaid">
 gantt
     title 2026 关键进程与里程碑
     dateFormat  YYYY-MM-DD
