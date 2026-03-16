@@ -50,3 +50,38 @@
   </div>
   <small>Current Progress: 1%</small>
 </div>
+
+<div class="architecture-card">
+  <div class="card-label">2026 Strategic Roadmap</div>
+  
+  <pre class="mermaid">
+gantt
+    title 2026 关键进程与里程碑
+    dateFormat  YYYY-MM-DD
+    axisFormat  %m/%y
+    
+    section 学术与语言
+    UIBE 考博系统复习       :active, a1, 2026-03-15, 2026-12-20
+    雅思 6.5 目标达成      :milestone, m1, 2026-06-30, 0d
+    
+    section 职业资格
+    注册电气专业考试备考   :active, p1, 2026-04-01, 2026-10-25
+    注册电气考试 (10月)    :milestone, m2, 2026-10-25, 0d
+    FRM 风险管理师备考     :p2, 2026-05-01, 2026-11-20
+    
+    section 技术与自动化
+    n8n/Dify 工作流构建   :active, t1, 2026-03-15, 2026-06-30
+    50+ 深度内容输出       :t2, 2026-03-15, 2026-12-15
+  </pre>
+</div>
+
+<style>
+  /* 优化甘特图在清爽背景下的显示效果 */
+  .mermaid rect.task {
+    rx: 4; /* 任务条圆角 */
+    ry: 4;
+  }
+  .mermaid .grid .tick line {
+    stroke: #edf2f7 !important; /* 极简网格线 */
+  }
+</style>
