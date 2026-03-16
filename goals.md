@@ -85,3 +85,14 @@ gantt
     stroke: #edf2f7 !important; /* 极简网格线 */
   }
 </style>
+
+<div style="border-left: 2px solid #e2e8f0; margin: 20px 0 0 20px; padding-left: 20px;">
+  <div style="margin-bottom: 20px;">
+    <span style="color: #4a5568; font-weight: bold; font-size: 0.9em;">2026.06.30</span><br>
+    <small style="color: #718096;">[里程碑] 雅思 6.5 分目标点位</small>
+  </div>
+  <div style="margin-bottom: 20px;">
+    <span style="color: #4a5568; font-weight: bold; font-size: 0.9em;">2026.10.25</span><br>
+    <small style="color: #718096;">[关键节点] 注册电气工程师专业考试</small>
+  </div>
+</div>
